@@ -1,13 +1,12 @@
-.h1 {
-
-    color:rgb(196, 29, 29);
+h1 {
+    color:brown;
 }
 
-.p {
+p {
     color:cornsilk;
 }
 
-.body {
-    background-color: black;
+body {
+    background-color: rgb(5, 5, 5);
 }
 
